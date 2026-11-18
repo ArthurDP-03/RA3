@@ -1,2 +1,2 @@
 # RA3
-Feito por 
+Feito por Arthur, Caio, João Saboya e Matheus Bortolli
